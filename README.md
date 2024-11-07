@@ -32,7 +32,29 @@ The application of AI and machine learning in agriculture is revolutionizing how
 
 This tool is designed not only to assist large-scale commercial farmers but also to empower smallholder farmers, providing them with cutting-edge technology at their fingertips to improve their crop health management practices.
 
-**Get Started:**
 
-Explore how CropCare AI can transform your farm’s approach to plant disease management. Access the platform today, and join a growing community of farmers who are using AI to protect and optimize their crops!
+## Get Started with CropCare AI
 
+Discover how **CropCare AI** can revolutionize your approach to plant disease management. Access the platform today and become part of a growing community of farmers leveraging the power of AI to safeguard and optimize crop health.
+
+### Steps to Run Locally:
+
+1. **Install Git**:  
+   If Git is not already installed on your machine, you can install it by running the following command:
+   ```bash
+   pip install git
+
+2. **Clone the Repository**:  
+   Clone the **CropCare AI** repository to your local machine by running the following command:
+   ```bash
+   git clone https://github.com/komal123467/CropCare-AI.git
+
+3. **Install Dependencies**:  
+   Navigate to the project directory where you cloned the repository and install all the required dependencies by running the following command:
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the Server**:  
+   To start the application, run the following command in your terminal:
+   ```bash
+   python app.py
